@@ -223,7 +223,7 @@ public class gui extends JFrame {
                     }
                 }
             }
-
+//
 
             if (src.equals(seven)){
                 if (opChosen ==false){
